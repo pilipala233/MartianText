@@ -32,3 +32,9 @@ window.toHx= function (str) {
 
 }
 toHx('我现在测试一下这个转换可不可以，用起来怎么样')
+
+
+
+
+
+
